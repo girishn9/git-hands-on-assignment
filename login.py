@@ -23,5 +23,4 @@ def calculator():
 calculator()
 
 #Adding content to check merge New
-#Adding content in Dev to check merge
 
