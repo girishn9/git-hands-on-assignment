@@ -23,4 +23,4 @@ def calculator():
 calculator()
 
 #Adding content to check merge New
-
+#New Merge conflicts
