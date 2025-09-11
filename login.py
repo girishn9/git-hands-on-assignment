@@ -25,3 +25,4 @@ calculator()
 #Adding content to check merge New
 #New Merge conflicts
 #New Merge
+#New Merge2
